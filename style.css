@@ -1,0 +1,44 @@
+#mark-style{
+    background-color: #c2ad13;
+    color: #1313c2;
+    font-size: 50px;
+    width: 100%;
+    height: 75px;
+    position:sticky;
+}
+#video{
+    width: 100%;
+    height: 500px;
+}
+.travel_mainDiv{
+    float:left;
+    width:33.33%;
+    padding: 5px;
+    border:2px solid royalblue;
+}
+.travel_mainDiv img{
+    width: 100%;
+    height: 300px;
+}
+.travel_mainDiv hr{
+    width: 100%;
+}
+.travel_mainDiv h5{
+    margin-left: 20px;
+}
+.travel_mainDiv p{
+    margin-left: 20px;
+}
+.nav.navbar-nav.navbar-right li a{
+    color: yellow;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.navbar-brand{
+    color: yellow;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
